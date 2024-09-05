@@ -1,2 +1,2 @@
-# Image-Processing-for-Coherent-Flow-Structures
+# Image Processing for Coherent Flow Structures
 This project is about 
