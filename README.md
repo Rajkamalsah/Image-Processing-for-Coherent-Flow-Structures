@@ -121,6 +121,4 @@ This project involves preprocessing images, performing cross-correlation to dete
         plot_velocity_field(velocity_vectors)
     ```
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
